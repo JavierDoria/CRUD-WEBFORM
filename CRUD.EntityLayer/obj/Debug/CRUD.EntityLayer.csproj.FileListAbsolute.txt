@@ -1,0 +1,6 @@
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb

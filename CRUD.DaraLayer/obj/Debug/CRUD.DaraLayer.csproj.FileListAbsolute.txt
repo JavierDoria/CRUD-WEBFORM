@@ -1,0 +1,9 @@
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\bin\Debug\CRUD.DaraLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\bin\Debug\CRUD.DaraLayer.pdb
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\obj\Debug\CRUD.DaraLayer.csproj.AssemblyReference.cache
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\obj\Debug\CRUD.DaraLayer.csproj.CoreCompileInputs.cache
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\obj\Debug\CRUD.Dar.EA75DCB6.Up2Date
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\obj\Debug\CRUD.DaraLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.DaraLayer\obj\Debug\CRUD.DaraLayer.pdb

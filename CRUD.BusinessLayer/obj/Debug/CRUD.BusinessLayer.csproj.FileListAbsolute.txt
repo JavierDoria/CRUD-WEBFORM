@@ -1,0 +1,11 @@
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\bin\Debug\CRUD.DaraLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\bin\Debug\CRUD.DaraLayer.pdb
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\obj\Debug\CRUD.Bus.ED2F5D0F.Up2Date
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+C:\Users\jjjja\Desktop\c#\crud.webform\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb
