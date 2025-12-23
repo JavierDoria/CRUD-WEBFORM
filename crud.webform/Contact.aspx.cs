@@ -59,6 +59,36 @@ namespace crud.webform
         }
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
+            // VALIDACIÓN
+            if (string.IsNullOrWhiteSpace(txtNombreCompleto.Text))
+            {
+                ScriptManager.RegisterStartupScript(
+                    this, this.GetType(), "msg",
+                    "alert('El nombre completo es obligatorio');", true);
+                return;
+            }
+            if (ddlDepartamento.SelectedValue == null || ddlDepartamento.SelectedValue == "")
+            {
+                ScriptManager.RegisterStartupScript(
+                    this, this.GetType(), "msg",
+                    "alert('Debe seleccionar un departamento');", true);
+                return;
+            }
+
+            if (!decimal.TryParse(txtSueldo.Text, NumberStyles.Any, new CultureInfo("es-PE"), out decimal sueldo))
+            {
+                ScriptManager.RegisterStartupScript(
+                    this, this.GetType(), "msg",
+                    "alert('Debe ingresar un sueldo válido');", true);
+                return;
+            }
+            if (!DateTime.TryParse(txtFechaContrato.Text, out DateTime fechaContrato))
+            {
+                ScriptManager.RegisterStartupScript(
+                    this, this.GetType(), "msg",
+                    "alert('Debe ingresar una fecha de contrato válida');", true);
+                return;
+            }
             Empleado entidad = new Empleado()
             {
                 IdEmpleado = idEmpleado,

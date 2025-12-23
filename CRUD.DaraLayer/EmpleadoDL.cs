@@ -1,13 +1,8 @@
-﻿using System;
+﻿using CRUD.EntityLayer;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using CRUD.EntityLayer;
 using System.Data;
 using System.Data.SqlClient;
-using System.ComponentModel;
 
 namespace CRUD.DaraLayer
 {
@@ -43,15 +38,15 @@ namespace CRUD.DaraLayer
                     }
                     return lista;
                 }
-                catch (Exception ex) 
-                { 
-                    throw ex; 
+                catch (Exception ex)
+                {
+                    throw ex;
                 }
             }
         }
         public Empleado obtener(int IdEmpleado)
         {
-            Empleado entidad= new Empleado();
+            Empleado entidad = new Empleado();
             using (SqlConnection oConexion = new SqlConnection(Conexion.cadena))
             {
                 SqlCommand cmd = new SqlCommand("select * from fn_empleado(@idEmpleado)", oConexion);
@@ -75,11 +70,11 @@ namespace CRUD.DaraLayer
                             entidad.sueldo = (decimal)dr["Sueldo"];
                             entidad.FechaContrato = dr["FechaContrato"].ToString();
                         }
-                        }
+                    }
                     return entidad;
                 }
-                catch (Exception ex) 
-                { 
+                catch (Exception ex)
+                {
                     throw ex;
                 }
             }
@@ -89,6 +84,16 @@ namespace CRUD.DaraLayer
             bool respuesta = false;
             using (SqlConnection oConexion = new SqlConnection(Conexion.cadena))
             {
+                // VALIDACIONES
+                if (string.IsNullOrWhiteSpace(entidad.NombreCompleto))
+                    throw new Exception("El nombre completo es obligatorio.");
+
+                if (entidad.Departamento == null || entidad.Departamento.IdDepartamento <= 0)
+                    throw new Exception("Debe seleccionar un departamento.");
+
+                if (entidad.sueldo <= 0)
+                    throw new Exception("El sueldo es obligatorio.");
+
                 SqlCommand cmd = new SqlCommand("sp_CrearEmpleado", oConexion);
                 cmd.Parameters.AddWithValue("@NombreCompleto", entidad.NombreCompleto);
                 cmd.Parameters.AddWithValue("@IdDepartamento", entidad.Departamento.IdDepartamento);
@@ -99,12 +104,12 @@ namespace CRUD.DaraLayer
                 {
                     oConexion.Open();
                     int filasAfectadas = cmd.ExecuteNonQuery();
-                    if(filasAfectadas > 0)respuesta=true;
+                    if (filasAfectadas > 0) respuesta = true;
                     return respuesta;
                 }
-                catch (Exception ex) 
+                catch (Exception ex)
                 {
-                    throw ex; 
+                    throw ex;
                 }
             }
         }
@@ -128,8 +133,8 @@ namespace CRUD.DaraLayer
                     return respuesta;
                 }
                 catch (Exception ex)
-                { 
-                    throw ex; 
+                {
+                    throw ex;
                 }
             }
         }
@@ -148,9 +153,9 @@ namespace CRUD.DaraLayer
                     if (filasAfectadas > 0) respuesta = true;
                     return respuesta;
                 }
-                catch (Exception ex) 
+                catch (Exception ex)
                 {
-                    throw ex; 
+                    throw ex;
                 }
             }
         }
