@@ -37,7 +37,7 @@ namespace CRUD.BusinessLayer
             try
             {
                 if(entidad.NombreCompleto=="")
-                    throw new OperationCanceledException("El nombnre no puede ser vacio");
+                    throw new OperationCanceledException("El nombre no puede ser vacio");
                 return empleadoDL.crear(entidad);
             }
             catch (Exception ex)

@@ -4,7 +4,7 @@
     <asp:Label ID="lblTitulo" runat="server" CssClass="fs-4 fw-bold"></asp:Label>
     
     <div class="mb-3">
-        <label class="form-label">Nombre Completo</label>
+        <label class="form-label">Nombre Completo </label>
         <asp:TextBox ID="txtNombreCompleto" runat="server" CssClass="form-control"></asp:TextBox>
     </div>
 

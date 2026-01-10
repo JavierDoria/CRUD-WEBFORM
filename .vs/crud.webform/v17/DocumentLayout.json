@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{423914E6-DF63-4164-B862-8DF9CCE3DAAF}|CRUD.DaraLayer\\CRUD.DaraLayer.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.daralayer\\empleadodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423914E6-DF63-4164-B862-8DF9CCE3DAAF}|CRUD.DaraLayer\\CRUD.DaraLayer.csproj|solutionrelative:crud.daralayer\\empleadodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|solutionrelative:crud.webform\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BDA7196-F0F4-496D-A00C-DE793E1A78F2}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.businesslayer\\empleadobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BDA7196-F0F4-496D-A00C-DE793E1A78F2}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|solutionrelative:crud.businesslayer\\empleadobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BDA7196-F0F4-496D-A00C-DE793E1A78F2}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.businesslayer\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BDA7196-F0F4-496D-A00C-DE793E1A78F2}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|solutionrelative:crud.businesslayer\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.webform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|solutionrelative:crud.webform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.webform\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|solutionrelative:crud.webform\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.webform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|solutionrelative:crud.webform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8820E4C-9118-4AF0-9458-F4DAC2E23B37}|CRUD.EntityLayer\\CRUD.EntityLayer.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.entitylayer\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8820E4C-9118-4AF0-9458-F4DAC2E23B37}|CRUD.EntityLayer\\CRUD.EntityLayer.csproj|solutionrelative:crud.entitylayer\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|c:\\users\\jjjja\\desktop\\c#\\crud.webform\\crud.webform\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|solutionrelative:crud.webform\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423914E6-DF63-4164-B862-8DF9CCE3DAAF}|CRUD.DaraLayer\\CRUD.DaraLayer.csproj|C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.daralayer\\departamentodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423914E6-DF63-4164-B862-8DF9CCE3DAAF}|CRUD.DaraLayer\\CRUD.DaraLayer.csproj|solutionrelative:crud.daralayer\\departamentodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|solutionrelative:crud.webform\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{53906625-9B22-4C56-9015-9052384FAA27}|crud.webform\\crud.webform.csproj|solutionrelative:crud.webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,81 +46,92 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Site.Master",
+              "RelativeDocumentMoniker": "crud.webform\\Site.Master",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Site.Master",
+              "RelativeToolTip": "crud.webform\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-10T15:59:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\packages.config",
+              "RelativeDocumentMoniker": "crud.webform\\packages.config",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\packages.config",
+              "RelativeToolTip": "crud.webform\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-10T15:59:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Global.asax.cs",
+              "RelativeDocumentMoniker": "crud.webform\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Global.asax.cs",
+              "RelativeToolTip": "crud.webform\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:59:12.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EmpleadoBL.cs",
               "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.BusinessLayer\\EmpleadoBL.cs",
               "RelativeDocumentMoniker": "CRUD.BusinessLayer\\EmpleadoBL.cs",
               "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.BusinessLayer\\EmpleadoBL.cs",
               "RelativeToolTip": "CRUD.BusinessLayer\\EmpleadoBL.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T02:37:33.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartamentoBL.cs",
-              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "RelativeDocumentMoniker": "CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "RelativeToolTip": "CRUD.BusinessLayer\\DepartamentoBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T02:37:30.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Contact.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Contact.aspx.cs",
-              "RelativeDocumentMoniker": "crud.webform\\Contact.aspx.cs",
-              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Contact.aspx.cs",
-              "RelativeToolTip": "crud.webform\\Contact.aspx.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAWwGEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T02:04:34.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.EntityLayer\\Empleado.cs",
-              "RelativeDocumentMoniker": "CRUD.EntityLayer\\Empleado.cs",
-              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.EntityLayer\\Empleado.cs",
-              "RelativeToolTip": "CRUD.EntityLayer\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T01:59:41.413Z",
+              "WhenOpened": "2026-01-06T21:39:45.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmpleadoDL.cs",
-              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.DaraLayer\\EmpleadoDL.cs",
-              "RelativeDocumentMoniker": "CRUD.DaraLayer\\EmpleadoDL.cs",
-              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.DaraLayer\\EmpleadoDL.cs",
-              "RelativeToolTip": "CRUD.DaraLayer\\EmpleadoDL.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwEUAAABDAAAAAAAAAA==",
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "crud.webform\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Contact.aspx.cs",
+              "RelativeToolTip": "crud.webform\\Contact.aspx.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwCAAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T01:17:58.628Z",
+              "WhenOpened": "2026-01-06T21:31:06.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DepartamentoDL.cs",
-              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.DaraLayer\\DepartamentoDL.cs",
-              "RelativeDocumentMoniker": "CRUD.DaraLayer\\DepartamentoDL.cs",
-              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\CRUD.DaraLayer\\DepartamentoDL.cs",
-              "RelativeToolTip": "CRUD.DaraLayer\\DepartamentoDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "crud.webform\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Default.aspx.cs",
+              "RelativeToolTip": "crud.webform\\Default.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T01:17:56.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T21:28:27.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Default.aspx",
+              "RelativeDocumentMoniker": "crud.webform\\Default.aspx",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\crud.webform\\crud.webform\\Default.aspx",
+              "RelativeToolTip": "crud.webform\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-06T21:27:00.729Z"
             }
           ]
         }
